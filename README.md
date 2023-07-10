@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edrey Esquinca</h1>
-<h3 align="center">A passionate student of software from Mexíco :)</h3>
+<h3 align="center">A passionate mexican software student:)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esquincaae&label=Profile%20views&color=0e75b6&style=flat" alt="esquincaae" /> </p>
 
