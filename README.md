@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esquincaae&label=Profile%20views&color=0e75b6&style=flat" alt="esquincaae" /> </p>
 
-- 🌱 I’m currently learning **Python, JavaScript and Laravel with PHP**
+- 🌱 I’m currently learning **Python, Golang and Laravel with PHP**
 
 - 📫 How to reach me **edreyae20@gmail.com**
 
